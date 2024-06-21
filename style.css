@@ -1,0 +1,18 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+  
+  list-style: none;
+}
+
+li {
+  border: 1px solid black;
+  margin: 2em;
+  padding: 2em;
+}
+
+li h2 { 
+  color: rgb(101, 101, 101);
+  text-transform: capitalize;
+}
