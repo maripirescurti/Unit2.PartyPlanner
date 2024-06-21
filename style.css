@@ -16,3 +16,15 @@ li h2 {
   color: rgb(101, 101, 101);
   text-transform: capitalize;
 }
+
+label {
+  display: block;
+  margin: 1em;
+  text-align: center;
+}
+
+form {
+  border: 1px solid black;
+  margin: 2em;
+  padding: 2em;
+}
